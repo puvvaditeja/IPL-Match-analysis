@@ -5,6 +5,11 @@ To evaluate bowler effectiveness and pressure-building moments.
 To explore run-scoring patterns and wicket distributions.
 To visualize how match momentum changes through run rate dynamics.
 
+## Tools and Technologies used
+- Python
+- Pandas – for data manipulation
+- Matplotlib – for visualization
+
 ## Dataset used
 - <a href="https://github.com/puvvaditeja/IPL-Match-analysis/blob/main/ipl_match_deliveries.xlsx">Dataset</a>
 
