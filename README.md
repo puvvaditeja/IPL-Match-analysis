@@ -1,2 +1,8 @@
 # IPL-Match-analysis
-This project focuses on an in-depth analysis of a single IPL T20 match using ball-by-ball data. It aims to uncover key insights related to batting and bowling performances, match phases, and pressure situations. The analysis was performed using Python (Pandas, Matplotlib, Seaborn), offering both visual and statistical understanding of the game.
+## Project Objective
+To understand how batting strategies shift across different phases of the match.
+To evaluate bowler effectiveness and pressure-building moments.
+To explore run-scoring patterns and wicket distributions.
+To visualize how match momentum changes through run rate dynamics.
+
+## Dataset used
